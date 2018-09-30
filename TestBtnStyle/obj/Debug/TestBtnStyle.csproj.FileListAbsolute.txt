@@ -1,0 +1,15 @@
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\bin\Debug\TestBtnStyle.exe.config
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\bin\Debug\TestBtnStyle.exe
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\bin\Debug\TestBtnStyle.pdb
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.csprojAssemblyReference.cache
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\MainWindow.g.cs
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\App.g.cs
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle_MarkupCompile.cache
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle_MarkupCompile.lref
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\MainWindow.baml
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.g.resources
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.Properties.Resources.resources
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.csproj.GenerateResource.cache
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.csproj.CoreCompileInputs.cache
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.exe
+C:\Users\eyang\source\repos\TestBtnStyle\TestBtnStyle\obj\Debug\TestBtnStyle.pdb
